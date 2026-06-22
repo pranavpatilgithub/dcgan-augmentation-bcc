@@ -12,6 +12,9 @@ Generating realistic medical images is challenging, particularly for skin cancer
 
 The repository includes both the baseline DCGAN and the proposed SA-SN-DCGAN to allow for a direct comparative analysis.
 
+## Dataset
+Link [https://drive.google.com/drive/folders/1sCKKdiPNbcITiJJHsIJKZEzNHWRtpZkn?usp=sharing]
+
 ## Features
 
 - **Standard DCGAN Baseline:** A standard Deep Convolutional GAN architecture used for comparative evaluation.
